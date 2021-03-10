@@ -6,6 +6,7 @@ If not
 please visit the following link and do it right away.: http://www.raspberrypi-spy.co.uk/2014/11/enabling-the-i2c-interface-on-the-raspberry-pi/
 
 Also install WiringPiI2C library if not yet instlled. Get it here: https://projects.drogon.net/raspberry-pi/wiringpi/i2c-library/
+WiringPi includes a library which can make it easier to use the Raspberry Pi’s on-board I2C interface.
 
 ***********************************************************************************************************************************
 
