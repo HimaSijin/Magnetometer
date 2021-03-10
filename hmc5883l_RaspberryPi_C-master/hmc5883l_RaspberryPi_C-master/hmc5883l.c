@@ -1,9 +1,9 @@
 #ifdef __cplusplus
 extern "C" {                /* Assume C declarations for C++ */
 #endif /* __cplusplus */
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
+#include <stdio.h> /*standard input/output function which contains printf(), scanf() functions*/
+#include <stdlib.h> /*functions involving memory allocation, process control, conversions and others.*/
+#include <math.h> /*designed for basic mathematical operations/
 #include <wiringPi.h>
 #include <wiringPiI2C.h>
 #include "hmc5883l.h"
