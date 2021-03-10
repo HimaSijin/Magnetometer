@@ -9,8 +9,6 @@ Also install WiringPiI2C library if not yet instlled. Get it here: https://proje
 
 ***********************************************************************************************************************************
 
-# Using this code.
 
-Refer the example code. It isn't rocket science.
 
 
