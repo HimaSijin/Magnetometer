@@ -1,3 +1,6 @@
+#ifdef __cplusplus
+extern "C" {                /* Assume C declarations for C++ */
+#endif /* __cplusplus */
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -82,3 +85,6 @@ double getCurrentHeading(HMC5883L compass)
     free(compass);
     return heading;
 }
+    #ifdef __cplusplus
+}                /* Assume C declarations for C++ */
+#endif /* __cplusplus */
